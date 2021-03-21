@@ -51,12 +51,6 @@ Render a simple list of the comments included in data.json with related user and
  - Keep the CSS minimal - less is more, no excessive styling needed (we're not going to disregard you for missing out on shiny unicorns!)
  - Feel free to use whatever scaffolding you want to - we prefer React/Redux related solutions if possible.
 
-## Publishing
-Please send us back your solution in a compressed format
-
-#### Hint
-We really are interested in your thinking and not your knowledge about using frameworks/tools
-
 > Note: We estimate you should be able to finish this in no more than 4 hours.
 
 # Review of Task
