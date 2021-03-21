@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 20rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Topic-box{
+  width:80%;
+  margin: 0 auto;
+  background-color: grey;
+  border-radius: 1rem;
+}
+
+.Topic-wrapper{
+ padding: 2rem;
+}
+.Comment-box{
+  width:80%;
+  margin: 0 auto;
+  background-color: lightgrey;
+  border-radius: 1rem;
+  padding: 0.5rem;
+  padding-bottom: 0;
+}
+
+.Comment-wrapper{
+  padding: 1rem;
+ }
+
+.topic-image{
+  width: 500px;
+  height: 500px;
+}
